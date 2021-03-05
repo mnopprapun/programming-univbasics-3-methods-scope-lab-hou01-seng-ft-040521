@@ -6,5 +6,3 @@ end
 def toadstool
   puts status
 end
-
-mario 
